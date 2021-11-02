@@ -1,0 +1,25 @@
+/***************************tag selectors*******************/
+h1{
+  font-size: 100px;
+  color: #DE8971;
+}
+img:hover{
+  background-color: #DE8971;
+}
+/***************************class selectors*******************/
+
+.mushroom{
+  background-color: green;
+}
+.cannedfood{
+  background-color: red;
+  /* border-radius: 100%; */
+}
+.circular{
+  border-radius: 100%;
+}
+/***************************ID selectors*******************/
+#heading{
+
+color: blue;
+}
